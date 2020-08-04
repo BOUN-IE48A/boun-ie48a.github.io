@@ -20,6 +20,7 @@
 + [Introduction to R](r_intro/) - Brief Presentation
 + Introduction to R ([html](https://mef-bda503.github.io//archive/fall17/files/01_R_Basics.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/01_R_Basics.pdf))
 
++ [My dummy Rmd output](test_introduction.html)
 
 # Week 0
 
