@@ -16,6 +16,11 @@
   + Extra Material: [Introduction to dplyr with election data](https://mef-bda503.github.io/files/dplyr_elections.html)
   + Extra Material (in Turkish): [R ile Veri Analizi 101](https://acikenerji.github.io/verianalizi101/)
 
++ [Introduction to ggplot2](files/ggplot2_renewable.html)
+  + Extra Material: [Introduction to ggplot2 with election data](https://mef-bda503.github.io/files/ggplot2_elections.html)
+  + Extra Material: [Introduction to ggplot2 with weather data](https://mef-bda503.github.io/archive/fall18/files/ggplot2_lecture.html)
+
+
 # Week 1 (Aug 4 & 6, 2020)
 
 + [Introduction to IE48A](files/introduction/)
