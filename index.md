@@ -10,6 +10,8 @@
 
 # Week 2 (Aug 11 & 13, 2020)
 
+`dplyr` has undergone significant changes in version 1.0.0. You might want to update. See all changes [from this link](https://www.tidyverse.org/tags/dplyr-1-0-0/).
+
 + [Introduction to dplyr v1.0.0](files/dplyr_renewable.html)
   + Extra Material: [Introduction to dplyr with election data](https://mef-bda503.github.io/files/dplyr_elections.html)
   + Extra Material (in Turkish): [R ile Veri Analizi 101](https://acikenerji.github.io/verianalizi101/)
