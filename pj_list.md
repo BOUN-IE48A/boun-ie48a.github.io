@@ -28,7 +28,7 @@ Ordered by first name.
 + Mehmet Enes Kandemir ([site](https://pjournal.github.io/boun01-enes-kandemir))
 + Merve Gülsüm Kıratlı ([site](https://pjournal.github.io/boun01-mervekiratl))
 + Metin Yüksel Güngör ([site](https://pjournal.github.io/boun01-metingungorr))
-+ Muhammet Hakan Ekiz ([site](https://pjournal.github.io/))
++ Muhammet Hakan Ekiz ([site](https://pjournal.github.io/boun01-Hakanekiz))
 + Mustafa Keser ([site](https://pjournal.github.io/boun01-mustafa-keser))
 + Nezihe Nazlı Gül ([site](https://pjournal.github.io/boun01-NazliGul))
 + Okan Yıldırım ([site](https://pjournal.github.io/boun01-coronakykumre))
