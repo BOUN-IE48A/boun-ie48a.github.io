@@ -8,18 +8,22 @@
 <!-- # Week 4 (Aug 25 & 27, 2020) -->
 <!-- # Week 3 (Aug 18 & 20, 2020) -->
 
-<!-- # Week 2 (Aug 11 & 13, 2020) -->
+# Week 2 (Aug 11 & 13, 2020)
+
++ [Introduction to dplyr v1.0.0](files/dplyr_renewable.html)
+  + Extra Material: [Introduction to dplyr with election data](https://mef-bda503.github.io/files/dplyr_elections.html)
+  + Extra Material (in Turkish): [R ile Veri Analizi 101](https://acikenerji.github.io/verianalizi101/)
 
 # Week 1 (Aug 4 & 6, 2020)
 
-+ [Introduction to IE48A](introduction/)
++ [Introduction to IE48A](files/introduction/)
 + **RMarkdown Homework:** Prepare an RMarkdown document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Plus, add your Linkedin account link. Watch some UseR-2020 videos ([Main Link](https://user2020.r-project.org/) - [YouTube Link](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg)) and write one of them down on your RMarkdown document. Find 3 R posts relevant to your interests and describe them. Get the html output and put it in your progress journal repository. Provide link from your Progress Journal page. ([Click for example](https://pjournal.github.io/mef03-OzgeBegde/RMarkdown_Homework.html)).
 + Form teams of 5-6 and prepare for major projects (we will discuss in week 2).
 
 + [Cheat Sheet Heaven](https://www.rstudio.com/resources/cheatsheets/)
-+ [Introduction to R](r_intro/) - Brief Presentation
++ [Introduction to R](files/r_intro/) - Brief Presentation
 + Introduction to R ([html](https://mef-bda503.github.io//archive/fall17/files/01_R_Basics.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/01_R_Basics.pdf))
-+ [R Fundamentals Exercises](R_fundamentals_exercises.html)
++ [R Fundamentals Exercises](files/R_fundamentals_exercises.html)
 
 # Week 0
 
