@@ -28,9 +28,9 @@
 + Form teams of 5-6 and prepare for major projects (we will discuss in week 2).
 
 + [Cheat Sheet Heaven](https://www.rstudio.com/resources/cheatsheets/)
-+ [Introduction to R](files/r_intro/) - Brief Presentation
++ [Introduction to R](files/r_intro/) - Brief Presentation ([Exercise solutions](files/R_fundamentals_exercises_solutions.html))
 + Introduction to R ([html](https://mef-bda503.github.io//archive/fall17/files/01_R_Basics.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/01_R_Basics.pdf))
-+ [R Fundamentals Exercises](files/R_fundamentals_exercises.html)
++ [R Fundamentals Exercises](files/R_fundamentals_exercises.html) ([solutions](files/R_fundamentals_exercises_solutions.html))
 
 # Week 0
 
