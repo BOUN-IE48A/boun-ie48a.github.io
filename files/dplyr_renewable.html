@@ -394,14 +394,19 @@ summary {
 <li><a href="#mutatetransmute"><code>mutate</code>/<code>transmute</code></a></li>
 <li><a href="#group_bysummarise"><code>group_by</code>/<code>summarise</code></a></li>
 </ul></li>
+<li><a href="#exercises">Exercises</a></li>
 <li><a href="#conclusion">Conclusion</a></li>
+<li><a href="#appendix">Appendix</a>
+<ul>
+<li><a href="#mini-lubridate-tutorial">Mini lubridate tutorial</a></li>
+</ul></li>
 <li><a href="#references">References</a></li>
 </ul>
 </div>
 
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
-<p>Main purpose of this document is to introduce a major data manipulation package, <code>dplyr</code>, with a contemporary subject. There are seven fundamental <code>dplyr</code> functions: <code>select</code>/<code>rename</code>, <code>filter</code>, <code>distinct</code>, <code>arrange</code>, <code>mutate</code>/<code>transmute</code>, <code>group_by</code> and <code>summarise</code> with a number of assisting functions used either in these functions or separately. In this document, we will cover every one of them and there will be supplementary functions to carry out data operations. Also, pipe operator (<code>%&gt;%</code>) will be briefly introduced. This document is updated for <code>dplyr 1.0.0</code> and <code>R 4.0+</code> to show you new stuff as well. We will also use <code>lubridate</code> package for date time operations but we will not cover it except for quick explanations. You can use advanced features in the “Advance Usage” subsections.</p>
+<p>Main purpose of this document is to introduce a major data manipulation package, <code>dplyr</code>, with a contemporary subject. There are seven fundamental <code>dplyr</code> functions: <code>select</code>/<code>rename</code>, <code>filter</code>, <code>distinct</code>, <code>arrange</code>, <code>mutate</code>/<code>transmute</code>, <code>group_by</code> and <code>summarise</code> with a number of assisting functions used either in these functions or separately. In this document, we will cover every one of them and there will be supplementary functions to carry out data operations. Also, pipe operator (<code>%&gt;%</code>) will be briefly introduced. This document is updated for <code>dplyr 1.0.0</code> and <code>R 4.0+</code> to show you new stuff as well. We will also use <code>lubridate</code> package for date time operations but we will not cover it except for quick explanations (check appendix at the end of this document for a mini tutorial). You can use advanced features in the “Advance Usage” subsections.</p>
 <div id="preparations" class="section level2">
 <h2>Preparations</h2>
 <p>There are two prerequisites to start: Install <code>tidyverse</code> package and putting the relevant data set into the working directory (write <code>getwd()</code> in the console to locate your working directory). In this document, topic of the data set is the hourly licensed and unlicensed renewable energy production data between January 1, 2018 and May 31, 2020.</p>
@@ -656,9 +661,9 @@ raw_df &lt;- readRDS(&quot;rp_201801_202005_df.rds&quot;)</code></pre>
 <pre><code>## # A tibble: 5 x 17
 ##   dt                  wind_lic geothermal_lic biogas_lic canalType_lic
 ##   &lt;dttm&gt;                 &lt;dbl&gt;          &lt;dbl&gt;      &lt;dbl&gt;         &lt;dbl&gt;
-## 1 2018-01-26 17:00:00    3751.           723.       66.8         1676.
-## 2 2018-06-17 03:00:00     636.           730.       58.6         1639.
-## 3 2018-03-08 05:00:00    2803.           698.       66.5         2744.
+## 1 2018-09-23 14:00:00    1126.           526.       63.5          564.
+## 2 2018-09-05 02:00:00     748.           640.       64.8          503.
+## 3 2018-01-09 08:00:00     835.           748.       69.8         1280.
 ## # … with 2 more rows, and 12 more variables: riverType_lic &lt;dbl&gt;,
 ## #   biomass_lic &lt;dbl&gt;, landfillGas_lic &lt;dbl&gt;, sun_lic &lt;dbl&gt;,
 ## #   reservoir_lic &lt;dbl&gt;, others_lic &lt;dbl&gt;, wind_ul &lt;dbl&gt;, biogas_ul &lt;dbl&gt;,
@@ -668,9 +673,9 @@ raw_df &lt;- readRDS(&quot;rp_201801_202005_df.rds&quot;)</code></pre>
 <pre><code>## # A tibble: 21 x 17
 ##   dt                  wind_lic geothermal_lic biogas_lic canalType_lic
 ##   &lt;dttm&gt;                 &lt;dbl&gt;          &lt;dbl&gt;      &lt;dbl&gt;         &lt;dbl&gt;
-## 1 2018-05-30 13:00:00    3137.           630.       60.6         2844.
-## 2 2019-08-23 15:00:00    4619.           613.       84.1         1191.
-## 3 2018-12-11 10:00:00    1569.           748.       75.1         1793.
+## 1 2019-08-17 04:00:00    2727.           774.       80.6          704.
+## 2 2019-10-23 02:00:00    3362.           789.       80.1          875.
+## 3 2018-05-05 05:00:00    1001.           676.       65.9         2386.
 ## # … with 18 more rows, and 12 more variables: riverType_lic &lt;dbl&gt;,
 ## #   biomass_lic &lt;dbl&gt;, landfillGas_lic &lt;dbl&gt;, sun_lic &lt;dbl&gt;,
 ## #   reservoir_lic &lt;dbl&gt;, others_lic &lt;dbl&gt;, wind_ul &lt;dbl&gt;, biogas_ul &lt;dbl&gt;,
@@ -833,9 +838,91 @@ raw_df &lt;- readRDS(&quot;rp_201801_202005_df.rds&quot;)</code></pre>
 </div>
 </div>
 </div>
+<div id="exercises" class="section level1">
+<h1>Exercises</h1>
+<p>Solve the following exercises. Outputs are given below, you are expected write code to match the outputs.</p>
+<ol style="list-style-type: decimal">
+<li>Find the mean and standard deviation of licensed geothermal productions in all years. (Tip: Use <code>lubridate::year</code> to get years from date data.)</li>
+</ol>
+<pre><code>## `summarise()` ungrouping output (override with `.groups` argument)</code></pre>
+<pre><code>## # A tibble: 3 x 3
+##    year mean_geo sd_geo
+##   &lt;dbl&gt;    &lt;dbl&gt;  &lt;dbl&gt;
+## 1  2018     681.   65.2
+## 2  2019     799.   74.2
+## 3  2020     935.   59.0</code></pre>
+<ol start="2" style="list-style-type: decimal">
+<li>Find the hourly average unlicensed solar (sun_ul) production levels for May 2020.</li>
+</ol>
+<pre><code>## `summarise()` ungrouping output (override with `.groups` argument)</code></pre>
+<pre><code>## # A tibble: 24 x 2
+##    hour avg_prod
+##   &lt;int&gt;    &lt;dbl&gt;
+## 1     0     0.13
+## 2     1     0.2 
+## 3     2     0.41
+## # … with 21 more rows</code></pre>
+<ol start="2" style="list-style-type: decimal">
+<li>Find the average daily percentage change of licensed biomass (biomass_lic) in 2019. (e.g. Suppose daily production is 50 in day 1 and 53 in day 2, then the change should be (53-50)/50 -1 = 0.06) (Tip: Use <code>lubridate::as_date</code> to convert date time to date. Use <code>lag</code> and <code>lead</code> functions to offset values.)</li>
+</ol>
+<pre><code>## `summarise()` ungrouping output (override with `.groups` argument)</code></pre>
+<pre><code>## # A tibble: 1 x 1
+##   average_change
+##            &lt;dbl&gt;
+## 1         -0.997</code></pre>
+<ol start="2" style="list-style-type: decimal">
+<li>Find the yearly total production levels in TWh (Current values are in MWh. 1 GWh is 1000 MWh and 1 TWh is 1000 GWh). (Tip: In order to avoid a lengthy summation you can use <code>tidyr::pivot_longer</code> to get a long format.)</li>
+</ol>
+<pre><code>## `summarise()` ungrouping output (override with `.groups` argument)</code></pre>
+<pre><code>## # A tibble: 3 x 2
+##    year total_production
+##   &lt;dbl&gt;            &lt;dbl&gt;
+## 1  2018             62.6
+## 2  2019             76.7
+## 3  2020             37.3</code></pre>
+</div>
 <div id="conclusion" class="section level1">
 <h1>Conclusion</h1>
 <p>Fundamental <code>dplyr</code> functions provide very convenient tools for data analysis. It can also be used to generate the features required for modelling. You can process few million rows of data without breaking a sweat (for larger data sets you can use <code>data.table</code>), you can prepare functions instead of manual Excel operations. With R Markdown system, which this tutorial is prepared in, you can create reproducible documents and automatize the reports. You can use <code>ggplot2</code> for visualizations, which is also part of the tidyverse package ecosystem.</p>
+</div>
+<div id="appendix" class="section level1">
+<h1>Appendix</h1>
+<div id="mini-lubridate-tutorial" class="section level2">
+<h2>Mini lubridate tutorial</h2>
+<p>In this tutorial we use a small portion of a very powerful package, <code>lubridate</code>. You can see the official website <a href="https://lubridate.tidyverse.org/">here</a>.</p>
+<p>Let’s take just 3 dates at random from our data set.</p>
+<pre class="r"><code>set.seed(5)
+lub_df &lt;- 
+raw_df %&gt;% 
+  select(dt) %&gt;%
+  sample_n(3)
+
+print(lub_df)</code></pre>
+<pre><code>## # A tibble: 3 x 1
+##   dt                 
+##   &lt;dttm&gt;             
+## 1 2018-12-02 06:00:00
+## 2 2019-01-12 05:00:00
+## 3 2018-04-16 09:00:00</code></pre>
+<p>Since we called lubridate at the beginning of this tutorial we do not need to call by package reference (<code>lubridate::</code>) but it is generally good practice.</p>
+<pre class="r"><code>lub_df %&gt;% 
+  mutate(
+    year = lubridate::year(dt),
+    month = lubridate::month(dt),
+    day = lubridate::day(dt),
+    week_day = lubridate::wday(dt),
+    wday_label = lubridate::wday(dt,label=TRUE),
+    hour = lubridate::hour(dt),
+    minute = lubridate::minute(dt),
+    second = lubridate::second(dt)
+  )</code></pre>
+<pre><code>## # A tibble: 3 x 9
+##   dt                   year month   day week_day wday_label  hour minute second
+##   &lt;dttm&gt;              &lt;dbl&gt; &lt;dbl&gt; &lt;int&gt;    &lt;dbl&gt; &lt;ord&gt;      &lt;int&gt;  &lt;int&gt;  &lt;dbl&gt;
+## 1 2018-12-02 06:00:00  2018    12     2        1 Sun            6      0      0
+## 2 2019-01-12 05:00:00  2019     1    12        7 Sat            5      0      0
+## 3 2018-04-16 09:00:00  2018     4    16        2 Mon            9      0      0</code></pre>
+</div>
 </div>
 <div id="references" class="section level1">
 <h1>References</h1>
