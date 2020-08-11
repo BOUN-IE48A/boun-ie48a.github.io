@@ -20,7 +20,7 @@
   + Extra Material: [Introduction to ggplot2 with election data](https://mef-bda503.github.io/files/ggplot2_elections.html)
   + Extra Material: [Introduction to ggplot2 with weather data](https://mef-bda503.github.io/archive/fall18/files/ggplot2_lecture.html)
 
-**Assignment 2: Electricity Market Prices** (Due Date: August 17, 2020 09:00)
+**Assignment 2: Electricity Market Prices** (Due Date: August 18, 2020 09:00)
 
 + Data source: [EPIAS/EXIST MCP/SMP Page](https://rapor.epias.com.tr/rapor/xhtml/ptfSmfListeleme.xhtml)
 + Assignment: Prepare a report about July 2020's electricity prices using only MCP/SMP data using RMarkdown, dplyr and ggplot2.
