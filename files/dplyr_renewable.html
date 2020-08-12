@@ -661,9 +661,9 @@ raw_df &lt;- readRDS(&quot;rp_201801_202005_df.rds&quot;)</code></pre>
 <pre><code>## # A tibble: 5 x 17
 ##   dt                  wind_lic geothermal_lic biogas_lic canalType_lic
 ##   &lt;dttm&gt;                 &lt;dbl&gt;          &lt;dbl&gt;      &lt;dbl&gt;         &lt;dbl&gt;
-## 1 2018-09-23 14:00:00    1126.           526.       63.5          564.
-## 2 2018-09-05 02:00:00     748.           640.       64.8          503.
-## 3 2018-01-09 08:00:00     835.           748.       69.8         1280.
+## 1 2018-05-08 01:00:00    1561.           741.       55.0         2698.
+## 2 2018-07-03 04:00:00    2195.           615.       61.2         1219.
+## 3 2019-07-19 15:00:00    2862.           654.       81.9         1440.
 ## # … with 2 more rows, and 12 more variables: riverType_lic &lt;dbl&gt;,
 ## #   biomass_lic &lt;dbl&gt;, landfillGas_lic &lt;dbl&gt;, sun_lic &lt;dbl&gt;,
 ## #   reservoir_lic &lt;dbl&gt;, others_lic &lt;dbl&gt;, wind_ul &lt;dbl&gt;, biogas_ul &lt;dbl&gt;,
@@ -673,9 +673,9 @@ raw_df &lt;- readRDS(&quot;rp_201801_202005_df.rds&quot;)</code></pre>
 <pre><code>## # A tibble: 21 x 17
 ##   dt                  wind_lic geothermal_lic biogas_lic canalType_lic
 ##   &lt;dttm&gt;                 &lt;dbl&gt;          &lt;dbl&gt;      &lt;dbl&gt;         &lt;dbl&gt;
-## 1 2019-08-17 04:00:00    2727.           774.       80.6          704.
-## 2 2019-10-23 02:00:00    3362.           789.       80.1          875.
-## 3 2018-05-05 05:00:00    1001.           676.       65.9         2386.
+## 1 2018-01-21 06:00:00    3353.           714.       67.5         1372.
+## 2 2020-01-12 12:00:00    1662.           965.       80.8         1157.
+## 3 2018-03-12 11:00:00    1519.           699.       66.3         2838.
 ## # … with 18 more rows, and 12 more variables: riverType_lic &lt;dbl&gt;,
 ## #   biomass_lic &lt;dbl&gt;, landfillGas_lic &lt;dbl&gt;, sun_lic &lt;dbl&gt;,
 ## #   reservoir_lic &lt;dbl&gt;, others_lic &lt;dbl&gt;, wind_ul &lt;dbl&gt;, biogas_ul &lt;dbl&gt;,
@@ -858,9 +858,9 @@ raw_df &lt;- readRDS(&quot;rp_201801_202005_df.rds&quot;)</code></pre>
 <pre><code>## # A tibble: 24 x 2
 ##    hour avg_prod
 ##   &lt;int&gt;    &lt;dbl&gt;
-## 1     0     0.13
-## 2     1     0.2 
-## 3     2     0.41
+## 1     0     0.17
+## 2     1     0.37
+## 3     2     0.7 
 ## # … with 21 more rows</code></pre>
 <ol start="2" style="list-style-type: decimal">
 <li>Find the average daily percentage change of licensed biomass (biomass_lic) in 2019. (e.g. Suppose daily production is 50 in day 1 and 53 in day 2, then the change should be (53-50)/50 -1 = 0.06) (Tip: Use <code>lubridate::as_date</code> to convert date time to date. Use <code>lag</code> and <code>lead</code> functions to offset values.)</li>

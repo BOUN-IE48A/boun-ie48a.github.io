@@ -6,9 +6,13 @@
 <!-- # Week 6 (Sep 8 & 11, 2020) -->
 <!-- # Week 5 (Sep 1 & 3, 2020) -->
 <!-- # Week 4 (Aug 25 & 27, 2020) -->
-<!-- # Week 3 (Aug 18 & 20, 2020) -->
+# Week 3 (Aug 18 & 20, 2020)
+
+**Guest Lecture** [İlker Kurtuluş](https://www.linkedin.com/in/ilker-kurtulus/) Senior Data Scientist at [Tarfin](https://tarfin.com/)
 
 # Week 2 (Aug 11 & 13, 2020)
+
+**Guest Lecture** [Burcu Yılmaz](https://www.linkedin.com/in/burcu-yilmaz-47944a57/) Data Science and Customer Experience Lead at [QNBEYOND](https://www.qnbeyond.com)
 
 `dplyr` has undergone significant changes in version 1.0.0. You might want to update. See all changes [from this link](https://www.tidyverse.org/tags/dplyr-1-0-0/).
 
