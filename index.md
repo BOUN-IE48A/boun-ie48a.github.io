@@ -11,10 +11,12 @@
 **Guest Lecture** [İlker Kurtuluş](https://www.linkedin.com/in/ilker-kurtulus/) Senior Data Scientist at [Tarfin](https://tarfin.com/)
 
 + This week we will learn about `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the Shiny Cheatsheet from RStudio. (Bonus: Check <https://shinyapps.io> to deploy your shiny apps)
-+ [Group project guidelines](files/project_guidelines.html).
-+ [Bonus: Group tutorials](files/group_tutorials).
++ Shiny in-class exercise [starter code](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01).
 
 + [Making an R Package: A tutorial](files/making_an_r_package.html)
+
++ [Group project guidelines](files/project_guidelines.html).
++ [Bonus: Group tutorials](files/group_tutorials).
 
 # Week 2 (Aug 11 & 13, 2020)
 
