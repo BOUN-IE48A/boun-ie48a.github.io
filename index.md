@@ -10,6 +10,9 @@
 
 **Guest Lecture** [İlker Kurtuluş](https://www.linkedin.com/in/ilker-kurtulus/) Senior Data Scientist at [Tarfin](https://tarfin.com/)
 
++ This week we will learn about `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the Shiny Cheatsheet from RStudio. (Bonus: Check <https://shinyapps.io> to deploy your shiny apps)
++ [Group project guidelines](files/project_guidelines.html).
+
 # Week 2 (Aug 11 & 13, 2020)
 
 **Guest Lecture** [Burcu Yılmaz](https://www.linkedin.com/in/burcu-yilmaz-47944a57/) Data Science and Customer Experience Lead at [QNBEYOND](https://www.qnbeyond.com)
