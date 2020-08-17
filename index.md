@@ -14,6 +14,8 @@
 + [Group project guidelines](files/project_guidelines.html).
 + [Bonus: Group tutorials](files/group_tutorials).
 
++ [Making an R Package: A tutorial](files/making_an_r_package.html)
+
 # Week 2 (Aug 11 & 13, 2020)
 
 **Guest Lecture** [Burcu Yılmaz](https://www.linkedin.com/in/burcu-yilmaz-47944a57/) Data Science and Customer Experience Lead at [QNBEYOND](https://www.qnbeyond.com)
