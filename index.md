@@ -12,6 +12,7 @@
 
 + This week we will learn about `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the Shiny Cheatsheet from RStudio. (Bonus: Check <https://shinyapps.io> to deploy your shiny apps)
 + [Group project guidelines](files/project_guidelines.html).
++ [Bonus: Group tutorials](files/group_tutorials).
 
 # Week 2 (Aug 11 & 13, 2020)
 
