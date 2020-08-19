@@ -1,47 +1,20 @@
 Back to [home](https://boun-ie48a.github.io)
 
-# Group Progress Journals
+This list is just informational and might be updated late. Contact your instructor about any questions. Datacamp deadlines are provided in DataCamp system.
 
-Coming soon
+# Deadlines
 
-# Individual Progress Journals
++ Aug 25, 2020: Assignment 2
++ Aug 25, 2020: Project proposal, summary of the data and explanations (group)
++ Aug 30, 2020: Group Assignment - Kaggle (group)
++ Sep 3, 2020: Exploratory Data Analysis (group)
++ Sep 3, 2020: Package Tutorials proposal (group)
++ Sep 8, 2020: Final Project and Presentation (group)
++ Sep 10, Package Tutorials (group) (bonus / optional)
 
-Ordered by first name.
+## Tentative Deadlines
 
-+ Abdullah Yıldız ([site](https://pjournal.github.io/boun01-abdullahyildizz))
-+ Alican Yılmaz ([site](https://pjournal.github.io/boun01-alicanylmz))
-+ Berkay Zühre ([site](https://pjournal.github.io/boun01-berkayzuhre))
-+ Berker Can ([site](https://pjournal.github.io/boun01-brkrcann))
-+ Can Aytöre ([site](https://pjournal.github.io/boun01-canaytore))
-+ Canan Kılıçkıran ([site](https://pjournal.github.io/boun01-canankilickiran))
-+ Cüneyt Çakır ([site](https://pjournal.github.io/boun01-Cuneytttt))
-+ Çağatay Nüfer ([site](https://pjournal.github.io/boun01-cagataynufer))
-+ Ebru Geçici ([site](https://pjournal.github.io/boun01-EbruGecici))
-+ Ecemnaz Bay ([site](https://pjournal.github.io/boun01-Ecemnaz0))
-+ Egecan Esen ([site](https://pjournal.github.io/boun01-egc-boun))
-+ Enes Fevzeddin Kacar ([site](https://pjournal.github.io/boun01-enesfkacar))
-+ Faruk Tüfekçi ([site](https://pjournal.github.io/boun01-faruktufekci))
-+ Fatma Nur Dumlupınar ([site](https://pjournal.github.io/boun01-fatmadumlupinar))
-+ Hacı Mehmet İnce ([site](https://pjournal.github.io/boun01-hmehmetince))
-+ Irmak Dai ([site](https://pjournal.github.io/boun01-irmakdai))
-+ İlayda Çelenk ([site](https://pjournal.github.io/boun01-ilaydacelenk))
-+ Mehmet Enes Kandemir ([site](https://pjournal.github.io/boun01-enes-kandemir))
-+ Merve Gülsüm Kıratlı ([site](https://pjournal.github.io/boun01-mervekiratl))
-+ Metin Yüksel Güngör ([site](https://pjournal.github.io/boun01-metingungorr))
-+ Muhammet Hakan Ekiz ([site](https://pjournal.github.io/boun01-Hakanekiz))
-+ Mustafa Keser ([site](https://pjournal.github.io/boun01-mustafa-keser))
-+ Nezihe Nazlı Gül ([site](https://pjournal.github.io/boun01-NazliGul))
-+ Okan Yıldırım ([site](https://pjournal.github.io/boun01-coronakykumre))
-+ Ramazan Eraslan ([site](https://pjournal.github.io/boun01-ramazaneraslan))
-+ Süheyla Şeker ([site](https://pjournal.github.io/boun01-Suheylaseker))
-+ Taha Bayaz ([site](https://pjournal.github.io/boun01-TahaBayaz))
-+ Talha Ünlü ([site](https://pjournal.github.io/boun01-TalhaUnlu))
-+ Tuğrul Özsoy ([site](https://pjournal.github.io/boun01-tugrulozsoy))
-+ Tümay Kır ([site](https://pjournal.github.io/))
-+ Umut Mete Saka ([site](https://pjournal.github.io/boun01-metesaka))
-+ Umut Mustafa Dilsiz ([site](https://pjournal.github.io/boun01-Umutdilsiz))
-+ Umut Yalçınkaya ([site](https://pjournal.github.io/boun01-umutyalcinkaya))
-+ Yasin Karatekin ([site](https://pjournal.github.io/boun01-yasinkaratekin))
-+ Yunus Emre Toprak ([site](https://pjournal.github.io/boun01-yunusemretoprak))
-+ Yusuf Beşiroğlu ([site](https://pjournal.github.io/boun01-yusufbesiroglu))
-+ Yusuf Işık ([site](https://pjournal.github.io/boun01-yusufisik1))
+These deadlines are subject to change
+
++ Sep 10, 2020: Assignment 3 (individual, will be announced)
++ Sep 13, 2020: Take home finals submission (individual, will be announced)

@@ -2,6 +2,7 @@
 
 + [Introduction to IE48A](files/introduction/)
 + [Progress Journals](pj_list)
++ [Deadlines](deadlines)
 
 <!-- # Week 6 (Sep 8 & 11, 2020) -->
 <!-- # Week 5 (Sep 1 & 3, 2020) -->
