@@ -1,6 +1,6 @@
 # Course Essentials
 
-+ [Introduction to IE48A](introduction/)
++ [Introduction to IE48A](files/introduction/)
 + [Progress Journals](pj_list)
 
 <!-- # Week 6 (Sep 8 & 11, 2020) -->
