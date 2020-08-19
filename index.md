@@ -19,6 +19,18 @@
 + [Group project guidelines](files/project_guidelines.html).
 + [Bonus: Group tutorials](files/group_tutorials).
 
+**Group Assignment: New York City Airbnb Open Data - Kaggle** (Due Date: August 30, 2020 23:59)
+
+"Kaggle is an online community of data scientists and machine learning practitioners." - [Wikipedia](https://en.wikipedia.org/wiki/Kaggle). Your assignment is to analyze a data set from Kaggle.
+
+1. Download New York City Airbnb Open Data csv file from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) convert it to and rds file.
+2. Prepare an analysis with dplyr + ggplot2 + rmarkdown and upload html (+pdf if you like) output to your Group Progress Journals.
+3. Prepare a Shiny app and upload to your Group Progress Journals which we can directly call with a single command of `shiny::runGitHub` (important!).
+
++ Feel free to explore kernels for inspiration. If you include direct code copy pastes, kindly provide references with name and link. Have some original code (at least 50%) as well.
++ You are welcome to upload your Rmd kernel to Kaggle. If you do, please add it to your GPJ with a text and link.
+
+
 # Week 2 (Aug 11 & 13, 2020)
 
 **Guest Lecture** [Burcu Yılmaz](https://www.linkedin.com/in/burcu-yilmaz-47944a57/) Data Science and Customer Experience Lead at [QNBEYOND](https://www.qnbeyond.com)
@@ -33,7 +45,7 @@
   + Extra Material: [Introduction to ggplot2 with election data](https://mef-bda503.github.io/files/ggplot2_elections.html)
   + Extra Material: [Introduction to ggplot2 with weather data](https://mef-bda503.github.io/archive/fall18/files/ggplot2_lecture.html)
 
-**Assignment 2: Electricity Market Prices** (Due Date: August 18, 2020 09:00)
+**Assignment 2: Electricity Market Prices** (Due Date: August 18, 2020 09:00 / Postponed to August 25, 23:59)
 
 + Data source: [EPIAS/EXIST MCP/SMP Page](https://rapor.epias.com.tr/rapor/xhtml/ptfSmfListeleme.xhtml)
 + Assignment: Prepare a report about July 2020's electricity prices using only MCP/SMP data using RMarkdown, dplyr and ggplot2.
