@@ -37,7 +37,7 @@ Ordered by first name.
 + Taha Bayaz ([site](https://pjournal.github.io/boun01-TahaBayaz))
 + Talha Ünlü ([site](https://pjournal.github.io/boun01-TalhaUnlu))
 + Tuğrul Özsoy ([site](https://pjournal.github.io/boun01-tugrulozsoy))
-+ Tümay Kır ([site](https://pjournal.github.io/boun-01-tumaykir))
++ Tümay Kır ([site](https://pjournal.github.io/boun01-tumaykir))
 + Umut Mete Saka ([site](https://pjournal.github.io/boun01-metesaka))
 + Umut Mustafa Dilsiz ([site](https://pjournal.github.io/boun01-Umutdilsiz))
 + Umut Yalçınkaya ([site](https://pjournal.github.io/boun01-umutyalcinkaya))
