@@ -4,9 +4,18 @@
 + [Progress Journals](pj_list)
 + [Deadlines](deadlines)
 
+**Group Projects**
+
++ [Group project guidelines](files/project_guidelines.html).
++ [Bonus: Group Work - R Tutorials](files/group_tutorials).
+
+
 <!-- # Week 6 (Sep 8 & 11, 2020) -->
 <!-- # Week 5 (Sep 1 & 3, 2020) -->
-<!-- # Week 4 (Aug 25 & 27, 2020) -->
+# Week 4 (Aug 25 & 27, 2020)
+
++ Coming soon...
+
 # Week 3 (Aug 18 & 20, 2020)
 
 **Guest Lecture** [İlker Kurtuluş](https://www.linkedin.com/in/ilker-kurtulus/) Senior Data Scientist at [Tarfin](https://tarfin.com/)
@@ -20,9 +29,6 @@
 
 + [Making an R Package: A tutorial](files/making_an_r_package.html)
   + Extra reference: [R Package Primer](https://kbroman.org/pkg_primer/) by Karl Broman
-
-+ [Group project guidelines](files/project_guidelines.html).
-+ [Bonus: Group tutorials](files/group_tutorials).
 
 **Group Assignment: New York City Airbnb Open Data - Kaggle** (Due Date: August 30, 2020 23:59)
 
