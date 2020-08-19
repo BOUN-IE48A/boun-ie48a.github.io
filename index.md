@@ -12,6 +12,7 @@
 
 + This week we will learn about `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the Shiny Cheatsheet from RStudio. (Bonus: Check <https://shinyapps.io> to deploy your shiny apps)
 + Shiny in-class exercise [starter code](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01).
++ Example run code from a Shiny application `r shiny::runGitHub("BOUN-IE48A/boun-ie48a.github.io",subdir="files/shinyExample/")`
 
 + [Making an R Package: A tutorial](files/making_an_r_package.html)
 
