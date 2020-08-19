@@ -11,13 +11,15 @@
 
 **Guest Lecture** [İlker Kurtuluş](https://www.linkedin.com/in/ilker-kurtulus/) Senior Data Scientist at [Tarfin](https://tarfin.com/)
 
-+ This week we will learn about `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the Shiny Cheatsheet from RStudio. (Bonus: Check <https://shinyapps.io> to deploy your shiny apps)
++ This week we will learn about `shiny` to create interactive dashboards on web browsers ([official tutorial](https://shiny.rstudio.com/tutorial/)). Also see the [Shiny Cheatsheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf) from RStudio. (Bonus: Check <https://shinyapps.io> to deploy your shiny apps)
   + [Extra tutorial on R Shiny (Turkish)](https://acikenerji.github.io/R-shiny/)
   + [Mastering Shiny](https://mastering-shiny.org/)
+  + [How to deploy to shinyapps.io](https://shiny.rstudio.com/articles/shinyapps.html)
 + Shiny in-class exercise [starter code](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01).
 + Example run code from a Shiny application `shiny::runGitHub("BOUN-IE48A/boun-ie48a.github.io",subdir="files/shinyExample/")`
 
 + [Making an R Package: A tutorial](files/making_an_r_package.html)
+  + Extra reference: [R Package Primer](https://kbroman.org/pkg_primer/) by Karl Broman
 
 + [Group project guidelines](files/project_guidelines.html).
 + [Bonus: Group tutorials](files/group_tutorials).
