@@ -2,6 +2,13 @@ Back to [home](https://boun-ie48a.github.io)
 
 # Group Progress Journals
 
++ Group 1: [bıktık-R-tık](https://pjournal.github.io/boun01g-biktik-r-tik)
++ Group 2: [data-mine-R-s](https://pjournal.github.io/boun01g-data-mine-r-s) (a.k.a R-ım-balım-peteğim)
++ Group 3: [R-ammstein](https://pjournal.github.io/boun01g-r-ammstein)
++ Group 4: [His-R-üstü](https://pjournal.github.io/boun01g-hisrustu)
++ Group 5: [R-sızlar](https://pjournal.github.io/boun01g-r-sizlar )
++ Group 6: [Dol-R](https://pjournal.github.io/boun01g-dol-r)
+
 Coming soon
 
 # Individual Progress Journals
