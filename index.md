@@ -27,6 +27,8 @@ Presentations!
 # Week 4 (Aug 25 & 27, 2020)
 
 + [Joins tutorial](https://stat545.com/join-cheatsheet.html)
+  + [Mini live lecture](files/joins_tutorial_live_lecture.html)
++ [Mini tutorial on pivot longer/wider](files/short_tutorial_on_pivot_wider_longer.html)
 + Exercise data: ATP World Tour 2017 Tennis data ([RData](https://mef-bda503.github.io/files/atp_tennis_data_2017.RData)) ([Source](https://github.com/serve-and-volley/atp-world-tour-tennis-data/)) ([Example analysis](https://pjournal.github.io/mef03-karaahmetlid/ATP2017.html))
   + In-class exercise ([see the desired outputs on dummy data](files/tennis_exercise_output.png))
     1. Create a matrix (or data frame) of "top 20" (top winners by quantity) players with the number matches among themselves as the value. Plot a heatmap of this matrix.
