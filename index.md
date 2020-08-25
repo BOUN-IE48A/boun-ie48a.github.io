@@ -32,7 +32,10 @@ Presentations!
     1. Create a matrix (or data frame) of "top 20" (top winners by quantity) players with the number matches among themselves as the value. Plot a heatmap of this matrix.
     2. Create a matrix (or data frame) of top 20 players with win percentages (rows are winners).
     3. Do the same for top 5 countries.
-+ In-class exercise: [Top 3 Industrial Engineering programs rds data](files/top_3_IE.rds).
++ In-class exercise: [Top 3 Industrial Engineering programs rds data](files/top_3_IE.rds). (Source: [BOUN](https://yokatlas.yok.gov.tr/lisans.php?y=102210295), [ITU](https://yokatlas.yok.gov.tr/lisans.php?y=105510662), [METU](https://yokatlas.yok.gov.tr/lisans.php?y=108410363))
+    + This data set is taken from YÖK Atlas, containing partial information about preferences of students placed in respective programs in university entrance examination of 2019. Data set is a list consisting of 3 IE programs (BOUN-IE, ITU-IE and METU-IE). There are two data sets under each program: `prog_prefs` and `city_prefs`.
+    + `prog_prefs` ([example data](https://yokatlas.yok.gov.tr/lisans-panel.php?y=105510662&p=1340b&pr=1)) contains the names and preference frequency of programs preferred by those placed in that IE program. For instance, there are 5 preferences for Dentistry (Diş Hekimliği) by the students placed in ITU-IE (a little context: Each student has a preference list and they can prefer up to 24 programs, so there are more preference quantities than students placed in that program). 
+    + `city_prefs` ([example data](https://yokatlas.yok.gov.tr/lisans-panel.php?y=105510662&p=1330&pr=1)) is similar but for cities.
 
 # Week 3 (Aug 18 & 20, 2020)
 
