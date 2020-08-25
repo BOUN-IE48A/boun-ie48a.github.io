@@ -28,6 +28,10 @@ Presentations!
 
 + [Joins tutorial](https://stat545.com/join-cheatsheet.html)
 + Exercise data: ATP World Tour 2017 Tennis data ([RData](https://mef-bda503.github.io/files/atp_tennis_data_2017.RData)) ([Source](https://github.com/serve-and-volley/atp-world-tour-tennis-data/)) ([Example analysis](https://pjournal.github.io/mef03-karaahmetlid/ATP2017.html))
+  + In-class exercise ([see the desired outputs on dummy data](files/tennis_exercise_output.png))
+    1. Create a matrix (or data frame) of "top 20" (top winners by quantity) players with the number matches among themselves as the value. Plot a heatmap of this matrix.
+    2. Create a matrix (or data frame) of top 20 players with win percentages (rows are winners).
+    3. Do the same for top 5 countries.
 + In-class exercise: [Top 3 Industrial Engineering programs rds data](files/top_3_IE.rds).
 
 # Week 3 (Aug 18 & 20, 2020)
