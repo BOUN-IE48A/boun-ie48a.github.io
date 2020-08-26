@@ -26,6 +26,9 @@ Presentations!
 
 # Week 4 (Aug 25 & 27, 2020)
 
++ [rvest Mini Tutorial](files/rvest_mini_tutorial.html)
+  + In Class Exercise: Try the exercises at the end of the rvest mini tutorial.
+
 + [Joins tutorial](https://stat545.com/join-cheatsheet.html)
   + [Mini live lecture](files/joins_tutorial_live_lecture.html)
 + [Mini tutorial on pivot longer/wider](files/short_tutorial_on_pivot_wider_longer.html)
