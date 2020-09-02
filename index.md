@@ -16,8 +16,12 @@ Presentations!
 
 # Week 5 (Sep 1 & 3, 2020)
 
+**Guest Lecture** [Merve Yılmaz](https://www.linkedin.com/in/mervyilmaz/) Account Manager at [Amazon (Web Services)](https://aws.amazon.com/)
+
 + Machine Learning Part I ([html](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml.pdf))
 + Machine Learning Part II ([html](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml_2.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml_2.pdf))
+
+In Class Exercise: Check the [NYC Airbnb Data Kaggle Page](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) for notebooks applying machine learning algorithms to the data. Pick one notebook, give the link, and explain the process steps on your Progress Journals (you do not need to write code).
 
 **Assignment 3 (individual)** (Due Date: September 10, 2020 23:59) These are 3 individual data sets / assignments. You may do all of them, but choose one to report. Add the assignment to your individual Progress Journals. If you add more than one assignment to your PJ, state the one you want to be graded. (p.s. Those data sets are popular on internet. If you find an inspiration, please state it in a references section with links.)
   + Assginment 3.1: Esoph and Youth Survey ([html](https://mef-bda503.github.io/archive/fall17/files/assignment_youth_survey.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/assignment_youth_survey.pdf))
