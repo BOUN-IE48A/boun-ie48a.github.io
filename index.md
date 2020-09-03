@@ -21,12 +21,17 @@ Presentations!
 + Machine Learning Part I ([html](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml.pdf))
 + Machine Learning Part II ([html](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml_2.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml_2.pdf))
 
-In Class Exercise: Check the [NYC Airbnb Data Kaggle Page](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) for notebooks applying machine learning algorithms to the data. Pick one notebook, give the link, and explain the process steps on your Progress Journals (you do not need to write code).
+**In Class Exercise**: Check the [NYC Airbnb Data Kaggle Page](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) for notebooks applying machine learning algorithms to the data. Pick one notebook, give the link, and explain the process steps on your Progress Journals (you do not need to write code).
 
 **Assignment 3 (individual)** (Due Date: September 10, 2020 23:59) These are 3 individual data sets / assignments. You may do all of them, but choose one to report. Add the assignment to your individual Progress Journals. If you add more than one assignment to your PJ, state the one you want to be graded. (p.s. Those data sets are popular on internet. If you find an inspiration, please state it in a references section with links.)
   + Assginment 3.1: Esoph and Youth Survey ([html](https://mef-bda503.github.io/archive/fall17/files/assignment_youth_survey.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/assignment_youth_survey.pdf))
   + Assginment 3.2: Spam Data ([html](https://mef-bda503.github.io/archive/fall17/files/assignment_spam_data.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/assignment_spam_data.pdf))
   + Assginment 3.3: Diamonds Data ([html](https://mef-bda503.github.io/archive/fall17/files/assignment_diamonds_data.html) \| [pdf](https://mef-bda503.github.io/archive/fall17/files/assignment_diamonds_data.pdf))
+
+## Resources
+
++ **[Introduction to Statistical Learning](files/ISLR Seventh Printing.pdf)**
+
 
 # Week 4 (Aug 25 & 27, 2020)
 
