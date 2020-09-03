@@ -31,7 +31,7 @@ Presentations!
 ## Resources
 
 + **[Introduction to Statistical Learning](files/ISLR Seventh Printing.pdf)**
-
++ **[Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)**
 
 # Week 4 (Aug 25 & 27, 2020)
 
