@@ -14,6 +14,10 @@
 
 Presentations!
 
+**Guest Lecture** [Serhat Keçici](https://www.linkedin.com/in/serhat-ke%C3%A7ici-20240335/) Cognitive and Analytics Practice Leader at [IBM](https://www.ibm.com/tr-tr)
+**Guest Lecture** [Kutay Güneştepe](https://www.linkedin.com/in/kutay-g%C3%BCne%C5%9Ftepe-58896559/) Senior Expert at ITU ARI Technopolis and ITU Magnet Manager [ITU Magnet - ITU ARI Technopolis](http://itumagnet.com/)
+
+
 # Week 5 (Sep 1 & 3, 2020)
 
 **Guest Lecture** [Merve Yılmaz](https://www.linkedin.com/in/mervyilmaz/) Account Manager at [Amazon (Web Services)](https://aws.amazon.com/)
